@@ -19,4 +19,28 @@ This project is a basic network sniffer developed using Python and Scapy. It cap
 ## Installation
 
 Install the required library:
+```bash
+pip install -r requirements.txt
+
+
+python main.py
+Starting Network Sniffer...
+
+Packet Number : 1
+Time          : 05:30:21
+Source IP     : 20.52.64.200
+Destination IP: 172.20.10.12
+Protocol      : TCP
+Source Port   : 443
+Destination Port: 52344
+Packet Length : 54 bytes
+
+Author
+
+Tracy Frimpong
+
+
+
+
+
 
