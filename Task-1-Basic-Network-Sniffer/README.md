@@ -1,3 +1,22 @@
-# Task 1 – Basic Network Sniffer
+# Task 1: Basic Network Sniffer
 
-This folder contains the Python source code, documentation, and screenshots for the Basic Network Sniffer project completed as part of the CodeAlpha Cyber Security Internship.
+## Overview
+This project is a basic network sniffer developed using Python and Scapy. It captures live network packets and displays important information about network traffic.
+
+## Features
+- Captures live network packets
+- Displays source and destination IP addresses
+- Identifies TCP and UDP protocols
+- Shows source and destination ports
+- Displays packet size
+- Counts captured packets
+
+## Technologies Used
+- Python
+- Scapy
+- Npcap
+
+## Installation
+
+Install the required library:
+
